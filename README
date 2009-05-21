@@ -1,0 +1,10 @@
+Depends.
+    python2.5>=, python-lxml (http://codespeak.net/lxml/)
+
+Install.
+    create dir 'cache'
+
+Using.
+just run:
+    $ python second_c.py ya-user-name 
+
